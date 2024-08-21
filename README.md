@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### KCI
+[📄얼굴 인식을 이용한 안전한 학습 도우미 프로그램](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11123680) (2022)  
+
 ![Yeojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwonyeojiny&show_icons=true&theme=graywhite)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwonyeojiny&layout=compact)
