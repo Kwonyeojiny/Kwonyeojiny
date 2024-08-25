@@ -21,7 +21,9 @@ Here are some ideas to get you started:
   <img style="aline-center" src="https://render.gitanimals.org/farms/{Kwonyeojiny}"/>
 </a> </div>
 
-## :bell:
+## 💻
+
+## 🔔
 <div align="center">
   
 ![Yeojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwonyeojiny&show_icons=true&theme=graywhite)
