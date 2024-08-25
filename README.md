@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ## 🏃‍♀️
+<div align="center">
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{Kwonyeojiny}?pet-id=1" width="1000" height="120"/>
-</a>
-
-
+  <img style="aline-center" src="https://render.gitanimals.org/farms/{Kwonyeojiny}"/>
+</a> </div>
 
 ## :bell:
+<div align="center">
+  
 ![Yeojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwonyeojiny&show_icons=true&theme=graywhite)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwonyeojiny&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kwonyeojiny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
