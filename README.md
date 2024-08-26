@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## 🏃‍♀️
 <div align="center">
-<img style="aline-center" src="https://render.gitanimals.org/farms/{Kwonyeojiny}"/>
-
+  <img style="aline-center" src="https://render.gitanimals.org/farms/{Kwonyeojiny}"/>
+</div>
 ## 💻
 
 ## 🔔
