@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 ## 🏃‍♀️
 <div align="center">
-<a href="https://github.com/devxb/gitanimals">
-  <img style="aline-center" src="https://render.gitanimals.org/farms/{Kwonyeojiny}"/>
-</a> </div>
+<img style="aline-center" src="https://render.gitanimals.org/farms/{Kwonyeojiny}"/>
 
 ## 💻
 
