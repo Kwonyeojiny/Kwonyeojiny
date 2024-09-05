@@ -20,7 +20,13 @@ Here are some ideas to get you started:
   <img style="aline-center" src="https://render.gitanimals.org/farms/{Kwonyeojiny}"/>
 </div>
 
-## 💻
+## 💻 Tech Stack 💻
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+</p>
 
 ## 🔔
 <div align="center">
