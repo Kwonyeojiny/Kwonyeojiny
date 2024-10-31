@@ -1,4 +1,4 @@
-## 안뇽하세요 권여진입니다👋
+## 안녕하세요 권여진입니다👋
 
 <!--
 **Kwonyeojiny/Kwonyeojiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
