@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 💻 Tech Stack 💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux" /><br>
 <!--     <img src="https://skillicons.dev/icons?i=nodejs" /> -->
   </a>
 </p>
