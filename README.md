@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind" /><br>
     <img src="https://skillicons.dev/icons?i=c,cs" /><br>
-    <img src="https://skillicons.dev/icons?i=git,notion,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=git,notion,discord,figma" /><br>
 <!--     <img src="https://skillicons.dev/icons?i=nodejs" /> -->
   </a>
 </p>
