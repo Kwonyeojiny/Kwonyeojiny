@@ -1,4 +1,5 @@
 ## 안녕하세요 권여진입니다👋
+- [GitLab](https://gitlab.com/yeojinious)
 
 <!--
 **Kwonyeojiny/Kwonyeojiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
